@@ -1,0 +1,6 @@
+json5==0.12.0
+numpy==2.2.5
+openai==1.77.0
+python-dotenv==1.1.0
+sentence_transformers==4.1.0
+torch==2.6.0+cu118
